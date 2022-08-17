@@ -1,0 +1,11 @@
+10/05/2014 ilk not yazım tarihi
+Son projelerimden MedyaPlayer hakkında
+Kullanılan dil ve kitaplık ve programlar:
+c++ / Qt
+Temel işlevselliği bakımından bir kaç ay önce biten bu projeyi geliştirmeye
+devam ediyorum.
+
+Cts 26 Mar 2016 22:35:53 EET
+Yukardaki not, eski bir programım hakkında.
+Sanırım, Qt4 phonon kitaplıkları ile yazmıştım. Bunlar değişti. gtk,
+    wxwidgets ve qt5 ile, yeni ortam oynatıcılar yazdım.
